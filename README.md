@@ -1,5 +1,4 @@
 # Scratch-DinoChomp
-Scratch Game
 Use a computer to play this scratch game by downloading it to your computer! 
 W-Walk
 R-Run.
